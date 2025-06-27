@@ -1,5 +1,5 @@
 import os
-from random import randint
+# from random import randint # Can use to randomize who goes first
 from game_board import TicTacToe
 # Starting board
 tic_tac_toe = TicTacToe()
